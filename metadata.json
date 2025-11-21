@@ -1,0 +1,8 @@
+{
+  "name": "Hệ Thống Quản Lý Cảnh Sát Trật Tự (CSTT)",
+  "description": "Ứng dụng quản lý nghiệp vụ Cảnh sát trật tự tích hợp AI hỗ trợ báo cáo, OCR và theo dõi tiến độ.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
